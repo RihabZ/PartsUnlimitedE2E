@@ -6,11 +6,9 @@ namespace PartsUnlimited.Models
     public class CartItem : ILineItem
     {
 
-        // first changeeeeeeeeeeeee///////
+        // second changeeeeeeeeeeeee///////
 
-        /// ahala//
-        /// 
-        /// jjjjjjjjjjjj
+// Updated category logic for bug fix
         [Key]
         public int CartItemId { get; set; }
 
